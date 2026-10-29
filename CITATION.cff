@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the AiONet manuscript and identify this independent reconstruction by software version and source checksum."
+title: "AiONet independent reconstruction"
+type: software
+version: 0.2.1
+date-released: 2026-10-29
+authors:
+  - family-names: Lin
+    given-names: Hongyi
+  - family-names: Chen
+    given-names: Haoyu
+  - family-names: Wang
+    given-names: Jianing
+  - family-names: Zhang
+    given-names: Song
+  - family-names: Liu
+    given-names: Yang
+  - family-names: Qu
+    given-names: Xiaobo
+license: MIT
+abstract: "Source-only reconstruction of perception, compatibility, temporal compensation and selection experiments for camera-based cooperative perception."

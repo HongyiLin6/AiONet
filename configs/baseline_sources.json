@@ -1,0 +1,17 @@
+{
+  "EMIFF": {
+    "url": "https://github.com/Bosszhe/EMIFF.git",
+    "commit": "4cea36ea9ecb4dfc73ece47b8f446fbdb179e290",
+    "license": "Apache-2.0"
+  },
+  "v2x-vit": {
+    "url": "https://github.com/DerrickXuNu/v2x-vit.git",
+    "commit": "f0e6c13f41e916548b2d8aba61e42a18ce980416",
+    "license": "MIT"
+  },
+  "Select2Col": {
+    "url": "https://github.com/ZJUNICE/Select2Col.git",
+    "commit": "5978cc466f294af3252381da4da7d2bee56c9694",
+    "license": "NoDistrib; obtain directly under upstream terms"
+  }
+}
